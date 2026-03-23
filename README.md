@@ -42,9 +42,9 @@ dotnet restore
 dotnet run
 ```
 
-Backend default URL (from launch settings): `http://localhost:5081`
+Backend default URL (from launch settings): `http://localhost:5082 `
 
-Swagger UI (development): `http://localhost:5081/swagger`
+Swagger UI (development): `http://localhost:5082/swagger`
 
 ## Prerequisites
 
